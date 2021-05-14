@@ -29,6 +29,7 @@ body{
     font-size: 1.1rem;
     font-weight: bold;
     
+    
 }
 .navbar ul li a{
     text-decoration: none;
@@ -47,7 +48,7 @@ body{
     color: white;
 }
 
-.header .hello{
+.header h3{
     padding-top: 60px;
     letter-spacing: 2px;
     
